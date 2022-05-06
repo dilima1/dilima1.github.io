@@ -14,3 +14,8 @@ p {
     font-family: 'Dosis';
     font-size: 20px;
 }
+
+strong {
+    color: #264653;
+    text-decoration: underline;
+}
