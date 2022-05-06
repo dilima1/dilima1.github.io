@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Tapestry&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300;400;600&family=Lato:wght@300;400&family=Tapestry&display=swap');
+
+body {
+    background-color: #2A9D8F;
+}
+
+h2 {
+    font-family: 'tapestry';
+    font-size: 40px;
+}
+
+p {
+    font-family: 'Dosis';
+    font-size: 20px;
+}
+
+strong {
+    color: #264653;
+    text-decoration: underline;
+}
+
+.hab1{
+    font-size: 35px;
+}
+
+.hab2 {
+    font-size: 25px;
+}
+
+.hab3 {
+    font-size: 25px;
+}
