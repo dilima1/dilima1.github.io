@@ -31,3 +31,22 @@ strong {
 .hab3 {
     font-size: 25px;
 }
+
+/* div{
+    border:2px solid green;
+} */
+
+.name{
+    text-align: center;
+}
+
+#perfil{
+    float: left;
+    border-radius: 150px;
+    padding: 15px;
+    background-color: #264653;
+}
+
+.descricao{
+    height: 340px;
+}
